@@ -35,6 +35,7 @@
     "JVillagerTradeProfession.trade:shepherd": "牧羊人",
     "JVillagerTradeProfession.trade:leatherworker": "皮匠",
     "JVillagerTradeProfession.trade:fisherman": "渔夫",
+    "endrod":"末地烛"
     "player":"玩家",
     "server player":"服务器玩家",
     "misc": "杂项",
@@ -1667,7 +1668,7 @@
     "door": "门",
     "fencegate": "栅栏门",
     "pressureplate": "压力板",
-    "trapdoor": "活扳门",
+    "trapdoor": "活板门",
     "list": "列表",
     "DataListCellRenderer:": "实体",
     "yellow": "黄色",
@@ -1826,5 +1827,6 @@
     "azure bluet": "蓝花美耳草",
     "allium": "绒球葱",
     "bamboo sapling": "竹笋",
-    "birch forest hill": "桦木森林丘陵"
+    "birch forest hill": "桦木森林丘陵",
+    "BlockGUI.blockBase:pane":"玻璃板"
 }
