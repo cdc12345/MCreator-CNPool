@@ -35,6 +35,8 @@
     "JVillagerTradeProfession.trade:shepherd": "牧羊人",
     "JVillagerTradeProfession.trade:leatherworker": "皮匠",
     "JVillagerTradeProfession.trade:fisherman": "渔夫",
+    "player":"玩家",
+    "server player":"服务器玩家",
     "misc": "杂项",
     "building blocks": "建筑方块",
     "decorations": "装饰性方块",
